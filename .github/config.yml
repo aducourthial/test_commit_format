@@ -1,5 +1,5 @@
-PR_TITLE_REGEX: /^(chg|fix|new)(\:).*$/i
-COMMIT_MESSAGE_REGEX: /^(chg|fix|new)(\:).*$/i
+PR_TITLE_REGEX: /^(chg|fix|new)(\:\s).*$/i
+COMMIT_MESSAGE_REGEX: /^(chg|fix|new)(\:\s).*$/i
 OUTPUT_TITLE_FAIL: Message validation failed!!!
 OUTPUT_TITLE_SUCCESS: Message validation passed!!!
 VALID_COMMIT_MESSAGE: Commit messages are valid
