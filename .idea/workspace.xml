@@ -21,7 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="477bea8f-36d3-4494-9405-25e952900d20" name="Default Changelist" comment="file">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pre-commit-hooks.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/.pre-commit-hooks.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591090800100</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="l">
+      <created>1591095337360</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1591095337360</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -104,7 +110,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="file" />
-    <option name="LAST_COMMIT_MESSAGE" value="file" />
+    <MESSAGE value="l" />
+    <option name="LAST_COMMIT_MESSAGE" value="l" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2102" y="72" width="1536" height="925" key="DiffContextDialog" timestamp="1591095149908">
@@ -120,11 +127,11 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="555" y="276" width="800" height="535" key="Vcs.Push.Dialog.v2/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1591090302781" />
-    <state x="2651" y="439" width="458" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591095142808">
+    <state x="2651" y="439" width="458" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591099247437">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="731" y="455" width="458" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1591092166381" />
-    <state x="2651" y="439" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1591095142808" />
+    <state x="2651" y="439" width="458" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1591099247437" />
     <state x="650" y="383" width="620" height="321" key="git4idea.ui.GitTagDialog" timestamp="1591089661141">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
