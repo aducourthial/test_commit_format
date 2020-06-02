@@ -60,9 +60,6 @@ def non(i: str) -> str:
     return i
 
 
-import numpy as np
-
-
 def oui(i: str) -> str:
     """
 
