@@ -3,4 +3,3 @@
     description: Validates commit format
     entry: commit_format_check
     language: script
-
