@@ -29,7 +29,7 @@ def non(i: str) -> str:
     return i
 
 
-import numpy as np
+import numpy as npa
 
 
 def oui(i: str) -> str:
