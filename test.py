@@ -43,7 +43,7 @@ def oui(i: str) -> str:
     -------
     str
     """
-    return i
+    return
 
 
 def oui(i: str) -> str:
