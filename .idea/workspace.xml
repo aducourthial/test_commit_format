@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="477bea8f-36d3-4494-9405-25e952900d20" name="Default Changelist" comment="" />
+    <list default="true" id="477bea8f-36d3-4494-9405-25e952900d20" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.pre-commit-hooks.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +39,13 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.notifications" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -49,6 +58,21 @@
       <option name="presentableId" value="Default" />
       <updated>1591087735742</updated>
     </task>
+    <task id="LOCAL-00001" summary="file">
+      <created>1591089130880</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1591089130880</updated>
+    </task>
+    <task id="LOCAL-00002" summary="file">
+      <created>1591089648073</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1591089648073</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -61,15 +85,29 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="file" />
+    <option name="LAST_COMMIT_MESSAGE" value="file" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="182" y="97" width="1536" height="901" key="DiffContextDialog" timestamp="1591089152624">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="182" y="97" width="1536" height="901" key="DiffContextDialog/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1591089152624" />
     <state x="743" y="298" width="424" height="491" key="FileChooserDialogImpl" timestamp="1591087758437">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="743" y="298" width="424" height="491" key="FileChooserDialogImpl/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1591087758437" />
+    <state x="555" y="276" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1591089668445">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="555" y="276" width="800" height="535" key="Vcs.Push.Dialog.v2/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1591089668445" />
+    <state x="650" y="383" width="620" height="321" key="git4idea.ui.GitTagDialog" timestamp="1591089661141">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="650" y="383" width="620" height="321" key="git4idea.ui.GitTagDialog/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1591089661141" />
     <state x="623" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1591087749844">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
