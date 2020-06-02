@@ -72,3 +72,17 @@ def non(i: str) -> str:
     str
     """
     return i
+
+
+def non(i: str) -> str:
+    """
+
+    Parameters
+    ----------
+    i : str
+
+    Returns
+    -------
+    str
+    """
+    return i
