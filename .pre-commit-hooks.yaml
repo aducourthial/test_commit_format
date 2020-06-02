@@ -1,4 +1,5 @@
 -   id: commit_format_check
     name: Commit Format Checker
     description: This validator validates a pre-commit hooks manifest file
+    entry: commit_format_check
     language: script
