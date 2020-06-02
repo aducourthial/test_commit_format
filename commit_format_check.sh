@@ -1,6 +1,7 @@
 #!/bin/bash
 
 MESSAGE=$(cat .git/COMMIT_EDITMSG)
+echo "$MESSAGE"
 
 if [[ "$MESSAGE" =~ ^(chg|fix|new)(: )((dev|usr|pkg|test|doc)(: ))?.*(\!|\@)?.*$ ]];
 then
